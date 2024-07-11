@@ -25,7 +25,7 @@ Este proyecto es un sistema de facturación desarrollado con Angular y Spring Bo
 - Posibilidad de agregar o eliminar productos en la factura.
 - Registro de detalles de facturación, como fecha y número de factura.
 
-### 5. Estructura del Proyecto
+## 5. Estructura del Proyecto
 - Backend (Spring Boot):
 - Capas: Entity, Service, Repositorio, Controller.
 - Implementación de funciones específicas y lógica de negocio.
